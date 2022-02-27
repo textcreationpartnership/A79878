@@ -1,0 +1,457 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poetical meditation wherein the usefulness, excellency, and several perfections of Holy Scripture are briefly hinted.</title>
+            <author>Clark, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79878</idno>
+            <idno type="STC">Wing C4477D</idno>
+            <idno type="STC">ESTC R176257</idno>
+            <idno type="EEBO-CITATION">43663236</idno>
+            <idno type="OCLC">ocm 43663236</idno>
+            <idno type="VID">171982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2605:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poetical meditation wherein the usefulness, excellency, and several perfections of Holy Scripture are briefly hinted.</title>
+                  <author>Clark, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Ranew, and J. Robinson, at the Angel in Jewn-Street.</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 8: John Clark.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales, Aberystwyth, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171982:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <p>
+               <add>This meditation is printed at the end of Samuel Clark's Bible with annotations Ed: 1690, but is omitted with other matters, in the Glasgow Edition of 1765.</add>
+            </p>
+            <pb facs="tcp:171982:2"/>
+            <!-- PDF PAGE 109 -->
+            <p>A POETICAL MEDITATION, Wherein the Uſefulneſs, Excellency, And ſeveral Perfections OF HOLY SCRIPTURE, Are briefly hinted.</p>
+            <q>
+               <l>A Verſe may find him who a Sermon flies,</l>
+               <l>And turn delight into a Sacrifice.</l>
+               <bibl>
+                  <hi>Herb.</hi> Poems.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. Ranew,</hi> and <hi>J. Robinſon,</hi> at the <hi>Angel</hi> in <hi>Jewen-Street.</hi> 1670.</p>
+         </div>
+         <div type="poem" subtype="to_the_censorious_reader">
+            <pb facs="tcp:171982:3"/>
+            <!-- PDF PAGE 110 -->
+            <head>To the Critical Cenſurer.</head>
+            <l>IF ſerious matter will not pleaſe thee, either</l>
+            <l>Naked or dreſsed in a ſimple rhyme:</l>
+            <l>I'le ne're wear in my Cap a Peacocks Feather,</l>
+            <l>That thou may'ſt call me witty or ſublime.</l>
+         </div>
+         <div type="poem" subtype="to_the_pious_reader">
+            <head>To the Sober and Serious Reader.</head>
+            <l>IF in a little Map thou doſt deſire</l>
+            <l>To ſee the uſe of Holy Scriptures hinted,</l>
+            <l>Read this and welcom; for I aim no higher:</l>
+            <l>For thee (although it was not Penn'd, yet) it was Printed.</l>
+         </div>
+         <div type="to_the_Christian_reader">
+            <pb facs="tcp:171982:3"/>
+            <!-- PDF PAGE 110 -->
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THE induſtry of man hath con<g ref="char:EOLhyphen"/>tracted the whole Bible into ſo ſmall a Volume, that every one may make it their Pocket-Compa<g ref="char:EOLhyphen"/>nion; that thou alſo maiſt by thy In<g ref="char:EOLhyphen"/>duſtry make it thy Heart-Companion, I do not wiſh it more contracted, but thy heart more enlarged. That which others make their Manual, do thou take for thy Cordial; That which others read, do thou believe: That which others diſcourſe upon, do thou live upon; And let that which lies by others in their houſes, dwell richly in thy heart; Wouldſt thou have me com<g ref="char:EOLhyphen"/>mend this Word of God to thee? I cannot as it deſerves: Read it fre<g ref="char:EOLhyphen"/>quently, Love it ardently, and Live by it continually, and it will ſufficiently commend it ſelf to thee, yet I have en<g ref="char:EOLhyphen"/>deavoured in ſome meaſure to ſet forth the Beauty, <g ref="char:V">Ʋ</g>ſefulneſs, Excellency and Perfections of it in this enſuing Me<g ref="char:EOLhyphen"/>ditation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="4" facs="tcp:171982:4"/>
+            <!-- PDF PAGE 111 -->
+            <lg>
+               <l>THou Lord to me thy Word haſt giv'n,</l>
+               <l>Precious and Pure,</l>
+               <l>Sweet, Holy, Sure,</l>
+               <l>To guide me through the world to Heav'n.<note place="margin">Pſal. 18.30 &amp; 119.89, 140, 160, 103.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>In all wants and neceſſities,</l>
+               <l>Thy Word's my ſtore</l>
+               <l>Heap'd, running o're</l>
+               <l>With plenty of moſt rich ſupplies.<note place="margin">Mic. 2.7.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Temptations, Terrors, Dangers, Fears,</l>
+               <l>Thoſe petty Hells</l>
+               <l>Thy Word diſpells,</l>
+               <l>And all the way before me clears,<note place="margin">Mat. 4.3, 4. &amp;c. Pſ. 119.92. Pſal. 18.32, &amp;c.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>When Satan flings his Darts at me,</l>
+               <l>Then, Lord, thy Word</l>
+               <l>Is Shield and Sword</l>
+               <l>To ſave me and to make him flee.<note place="margin">Pſa. 18.30. Eph. 6.17.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>The world preſents it's objects rare;</l>
+               <l>But yet thy Word</l>
+               <l>Doth that afford,</l>
+               <l>Which ſeems to me far coſtlier ware.<note place="margin">Pſal. 119.14, 72, 96. Phil. 3.7, 8. Pſal. 119.47 70, 16, 11, 36, 8. Heb. 11.25 2 Pet. 3 18 Pſ. 119.30, 102, 104, 118, 128. Iſa. 30.21.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Then luſt invites me to it's pleaſure:</l>
+               <l>But to delights</l>
+               <l>Thy Word invites,</l>
+               <l>Which far ſurpaſs in weight and meaſure.</l>
+            </lg>
+            <lg>
+               <l>Then Errors their gumm'd wares diſplay,</l>
+               <l>But Scripture ſays,</l>
+               <l>Shun Errors ways:</l>
+               <l>Walk by my Rule; This is the way.</l>
+            </lg>
+            <lg>
+               <l>Thus when I'm tempted unto ſin,</l>
+               <l>By thy Word's Art</l>
+               <l>Hid in my Heart,</l>
+               <l>Both Battel and Reward I win.<note place="margin">Pſa. 19.11. &amp; 119, 11.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Yea though ſins have defil'd my ſoul,</l>
+               <l>Thy Word can cleanſe</l>
+               <l>Thoſe noyſom Dens</l>
+               <l>Of luſt, and ſins beſt ſtrength controul.<note place="margin">Pſal. 119.9 Joh. 15.3. Eph. 5.26.</note>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:171982:4"/>
+               <!-- PDF PAGE 111 -->
+               <l>Have I an unbelieving Heart?</l>
+               <l>Thy Word, Lord, hath</l>
+               <l>Pow'r to work Faith</l>
+               <l>By thy moſt holy Spirit's Art.<note place="margin">Ro. 10.17.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Have I an hard and ſtony Heart?</l>
+               <l>Thy Word thus deals,</l>
+               <l>Firſt breaks, then heals.</l>
+               <l>That ſtone is cured by this ſmart.<note place="margin">Ezek. 36.26.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Will not my frozen Heart comply?</l>
+               <l>Thy Word,  thy Law</l>
+               <l>That Heart can thaw,</l>
+               <l>And change it for a weeping eye.<note place="margin">Ez. 16.30, 60, 63. &amp; 36.26, 31. Act. 24.25 Rom. 12.3, 16. Phil. 3.4, &amp;c. 13.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Do towring thoughts poſſeſs my breaſt?</l>
+               <l>Thy Word brings low</l>
+               <l>The proudeſt foe,</l>
+               <l>And lays him level with the leaſt.</l>
+            </lg>
+            <lg>
+               <l>Do mutt'ring thoughts riſe and repine?</l>
+               <l>Thy Rod and Word</l>
+               <l>Teach Patience, Lord,</l>
+               <l>And ſtill thoſe barking thoughts of mine.<note place="margin">Pſal 38.13, 14. &amp; 39.9. Jam. 5.10, 11.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Am I tongue-ty'd and cannot pray?</l>
+               <l>Thy Word inſpires</l>
+               <l>Praying deſires;</l>
+               <l>Dumb lips unſeals; tells what to ſay.<note place="margin">Hoſ, 14.2. Rom. 8.26. Mat. 6.9. &amp;c.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>When I in darkneſs erre and ſtray:</l>
+               <l>Thy Word's a light</l>
+               <l>Moſt clear, and bright,</l>
+               <l>And leads me back into the way.<note place="margin">Pſal. 119.105. Iſa. 50.10.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>I'm fooliſh, ſimple, and want eyes: </l>
+               <l>Thy Word's Light, Rule,</l>
+               <l>Maſter and School,</l>
+               <l>Which makes the comers to it wiſe.<note place="margin">Pſal. 19.7, 8, &amp; 119.104, 130. Gal. 3.24.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>I ſee my ſelf undone and poor.</l>
+               <l>Thy words infold</l>
+               <l>A Mine of Gold,</l>
+               <l>A Pearl of Price, all riches ſtore.<note place="margin">Pſal 19.10. Prov. 8.10, 11.</note>
+               </l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:171982:5"/>
+               <!-- PDF PAGE 112 -->
+               <l>With God by nature I'm at odds.</l>
+               <l>Thy Word my ſoul</l>
+               <l>Converteth whole</l>
+               <l>From Satan's ſervice unto God's.<note place="margin">Pſal. 19.8. Jam. 1.18.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Do outward Troubles, inward Grief</l>
+               <l>My ſoul torment?</l>
+               <l>Thy Word is ſent</l>
+               <l>With comfort for my Soul's relief.<note place="margin">Pſal. 119.28<g ref="char:punc">▪</g> 50, 143 165.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Am I perplex't with doubts and fears?</l>
+               <l>Thy Word of Grace</l>
+               <l>Reſolves the caſe,</l>
+               <l>And ſo my clouded judgment clears.<note place="margin">Act. 16.29, 30, 31, 32.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Or do deſpairing thoughts me take?</l>
+               <l>Thy Word doth give</l>
+               <l>Me hopes to live</l>
+               <l>For Chriſt, my deareſt Saviour's ſake.<note place="margin">Pſal. 119.81. &amp; 130.5.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Do multitudes of thoughts me preſs?</l>
+               <l>I call to mind</l>
+               <l>Thy Word and find</l>
+               <l>Such comforts as my Soul refreſh.<note place="margin">Pſal. 94.10 &amp; 19.8.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Can't I through weakneſs walk alone?</l>
+               <l>Thy Word, Lord, is</l>
+               <l>Strength to my knees,</l>
+               <l>And ſtaff to ſtay my hand upon.<note place="margin">Pſal. 119.28, 49.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus though I thirſt, faint, hunger, pine,</l>
+               <l>Thy Word me feeds</l>
+               <l>In theſe my needs;</l>
+               <l>Thy Word it ſelf is bread, milk, wine.<note place="margin">Mat. 4.4. 1 Pet. 2.2. Iſa. 55.1.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus though poor, ſcorn'd, forſaken, pained</l>
+               <l>Thy Word alone</l>
+               <l>Hath all in one;</l>
+               <l>Health, wealth, friends, honor, all contained.<note place="margin">Pſal. 119.51, 141. Pro. 4.20, 22.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus though Soul-ſick and wounded ſore</l>
+               <l>With grievous ſin</l>
+               <l>Which doth begin</l>
+               <l>To feſter, rankling more and more;<note place="margin">1 John 2.1, 2.</note>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:171982:5"/>
+               <!-- PDF PAGE 112 -->
+               <l>Thy Word ſhows whence help may be had</l>
+               <l>And doth me guide</l>
+               <l>To Chriſt's pierc'd ſide,</l>
+               <l>Whence flows the balm of <hi>Gilead.</hi>
+                  <note place="margin">Jo. 5.39. Jer. 8.22.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Yea though in me no life remain;</l>
+               <l>Thy Word is good</l>
+               <l>And living food,</l>
+               <l>Which fetcheth me to life again.<note place="margin">1 Pet. 1.23 Pſal. 119.93, 116. Phil. 2.16. Jam. 1.18.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Would I prolong this life for ever?</l>
+               <l>The Scripture ſhows</l>
+               <l>Whence water flows,</l>
+               <l>Pure ſtreams, which who ſo drinks dies ne<g ref="char:EOLhyphen"/>ver.<note place="margin">Pſal. 36.9. Iſa. 55.1. Jo. 4.10.14 Pſal. 23. Iſa. 55.2. 1 Pet. 1.23 25.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>The Lord be bleſt who thus provides,</l>
+               <l>And filleth full</l>
+               <l>My empty ſoul,</l>
+               <l>With food which evermore abides.</l>
+            </lg>
+            <lg>
+               <l>Bleſs God (my Soul) that thus hath giv'n</l>
+               <l>Strength, light, guide, way,</l>
+               <l>Leſt thou ſhouldſt ſtray</l>
+               <l>In this thy Pilgrimage to Heav'n.</l>
+            </lg>
+            <lg>
+               <l>This Book, theſe Sentences, theſe Lines</l>
+               <l>Each Word and Letter</l>
+               <l>To me are better,</l>
+               <l>Then Chains of Pearl and Golden Mines.</l>
+            </lg>
+            <lg>
+               <l>'Tis Heaven tranſcrib'd and Glory penn'd:</l>
+               <l>God's mind no doubt</l>
+               <l>Was copied out</l>
+               <l>When he this Gift to men did ſend.<note place="margin">John 17.17.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis Truth it ſelf: God doth intend</l>
+               <l>Man's word ſhall fall;</l>
+               <l>Heav'n, Earth and all;</l>
+               <l>But this ſhall never have an end.<note place="margin">Pſ. 119.89, 142, 151, 152, 160. Mar. 13.31 Pſal. 119.18, 127. 1 Cor. 2.7, 9, 10.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>My Soul admire that hand and quill,</l>
+               <l>That did produce</l>
+               <l>For ſinners uſe</l>
+               <l>Th' eternal Mind, the ſoveraign Will.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:171982:6"/>
+               <!-- PDF PAGE 113 -->
+               <l>Adore the Author too, and when</l>
+               <l>Thou canſt not raiſe</l>
+               <l>Sufficient Praiſe,</l>
+               <l>Sit down and wondring ſay A MEN.<note place="margin">Pſal. 119.171, 164.</note>
+               </l>
+            </lg>
+            <epigraph>
+               <q>Wherefore lay apart all filthineſs, and ſuper<g ref="char:EOLhyphen"/>fluity of naughtineſs,<note place="margin">
+                     <bibl>Jam. 1.21, 25.</bibl>
+                  </note> and receive with meekneſs the ingrafted Word, which is able to ſave thy Soul. The good Lord grant that it may in all parts and points, and to all ends and purpoſes be ſuch to thy Soul, as it is here ſet forth and deſcribed, or rather, as it is in its ſelf, viz. <hi>The power of God to the Salvation of Souls;</hi>
+               </q>
+            </epigraph>
+            <closer>which is the hearty Prayer of, <signed>Thine in the Lord, JOHN CLARK.</signed>
+            </closer>
+         </div>
+         <div type="Ten_Commandments_in_verse">
+            <head>The Ten Commandments.</head>
+            <lg>
+               <l>
+                  <label>I.</label> Have thou no other Gods but Me.</l>
+               <l>
+                  <label>II.</label> Unto no Image bow thy knee.</l>
+               <l>
+                  <label>III.</label> Take not the Name of God in vain.</l>
+               <l>
+                  <label>IV.</label> Do not the Sabbath day profane.</l>
+               <l>
+                  <label>V.</label> Honour thy Father, Mother too.</l>
+               <l>
+                  <label>VI.</label> And ſee that thou no Murder do.</l>
+               <l>
+                  <label>VII.</label> From Whoredom keep thy body clean.</l>
+               <l>
+                  <label>VIII.</label> And Steal not, though thy ſtare be mean.</l>
+               <l>
+                  <label>IX.</label> Of a Falſe Witneſs ſhun the blot.</l>
+               <l>
+                  <label>X.</label> What is thy Neighbours Covet not.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
